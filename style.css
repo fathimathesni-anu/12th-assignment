@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+form {
+  margin-bottom: 20px;
+}
+.error {
+  color: red;
+  font-size: 0.9em;
+}
+.result {
+  margin-top: 20px;
+  font-weight: bold;
+  text-align: center;
+}
